@@ -1,0 +1,46 @@
+# General OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Logs and temporary files
+logs/
+*.log
+debug.log
+temp/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Compiled files
+*.o
+*.out
+*.class
+*.exe
+*.dll
+*.so
+
+# Version control metadata
+.git/
+*.orig
+
+# Environment files
+.env
+.env.local
+.env.*.local
